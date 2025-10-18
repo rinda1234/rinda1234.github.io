@@ -6,7 +6,7 @@ title: Daebok Lee
 superuser: true
 
 # Role/position
-role: ''
+role: student
 
 # Status emoji
 status:
