@@ -9,7 +9,7 @@ main:
     url: /
     weight: 10
 # 학력, 목표, 전공 등 내 정보
-  - name: About
+  - name: Resumé
     url: about/
     weight: 20
 
