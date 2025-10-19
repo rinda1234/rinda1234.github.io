@@ -13,6 +13,3 @@ main:
     url: about/
     weight: 20
 
-# 프로젝트
-  - name: Projects
-    url: projects/
