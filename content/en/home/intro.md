@@ -44,7 +44,7 @@ Check out my [About](/about/) and portfolio below 😍
   <div>
     <h1 style="margin:0;">Dae-bok Lee</h1>
     <p>AI Researcher & Game Designer</p>
-    <a href="/projects/" style="padding:5px 15px; background:#FF7C00; color:#fff; border-radius:5px;">View Projects</a>
+    <a href="/Projects/" style="padding:5px 15px; background:#FF7C00; color:#fff; border-radius:5px;">View Projects</a>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Check out my [About](/about/) and portfolio below 😍
 
 <div style="display:flex; height:100vh;">
   <div style="flex:1; display:flex; justify-content:center; align-items:center;">
-    <img src="/media/profile.jpg" style="width:300px; border-radius:50%;" alt="Dae-bok Lee">
+    <img src="content\en\authors\admin\avatar.jpg" style="width:300px; border-radius:50%;" alt="Dae-bok Lee">
   </div>
   <div style="flex:1; display:flex; flex-direction:column; justify-content:center; padding:50px;">
     <h1>Dae-bok Lee</h1>
