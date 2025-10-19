@@ -22,10 +22,10 @@ author: admin
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [About](/about/) and portfolio below 😍
-{{< cta cta_text="View Projects 🚀" cta_link="Projects/" >}}  
-{{< cta cta_text="About Me" cta_link="About/" cta_new_tab=true >}}
+<!-- {{< cta cta_text="View Projects 🚀" cta_link="Projects/" >}}  
+{{< cta cta_text="About Me" cta_link="About/" cta_new_tab=true >}} -->
 
-<span class="typing">Game Designer | AI Researcher | Creative Thinker</span>
+<!-- <span class="typing">Game Designer | AI Researcher | Creative Thinker</span>
 
 <style>
 .typing {
@@ -60,4 +60,4 @@ Check out my [About](/about/) and portfolio below 😍
     <p>AI Researcher & Game Designer creating emotionally engaging cooperative roguelikes.</p>
     <a href="/about/" style="padding:10px 20px; background:#FF7C00; color:#fff; border-radius:5px;">Learn More</a>
   </div>
-</div>
+</div> -->
