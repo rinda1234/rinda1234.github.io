@@ -19,7 +19,7 @@ author: admin
 ---
 
 👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
-I love creating worlds where players can step in as characters <br>and explore their own stories.
+I love creating worlds where players can step in as <br>characters and explore their own stories.
 {style="font-size: 1.2rem; color: #FFB76B;"}
 
 
