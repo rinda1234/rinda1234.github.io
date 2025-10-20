@@ -18,9 +18,10 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk National University, aspiring to become a game designer.
+👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk National University, aspiring to become a game designer.  
 I love creating worlds where players can step in as characters and explore their own stories.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; color: #FFB76B;"}
+
 
 Check out my [About](/about/) and portfolio below 😍
 <!-- {{< cta cta_text="View Projects 🚀" cta_link="Projects/" >}}  
