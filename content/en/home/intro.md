@@ -24,8 +24,6 @@ I love creating worlds where players can step in as <br>characters and explore t
 
 
 Check out my [About](/about/) and portfolio below 😍
-<a href="/about/" style="padding:10px 20px; background:#FF7C00; color:#fff; border-radius:5px;">About Me</a>
-<a href="/Projects/" style="padding:10px 20px; background:#FF7C00; color:#fff; border-radius:5px;">Portfolio</a>
 
 <!-- {{< cta cta_text="View Projects 🚀" cta_link="Projects/" >}}  
 {{< cta cta_text="About Me" cta_link="About/" cta_new_tab=true >}} -->
