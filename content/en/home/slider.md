@@ -3,7 +3,7 @@
 widget: slider
 headless: true
 active: true
-weight: 15
+weight: 20
 title: Showcase
 
 slides:
