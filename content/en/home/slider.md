@@ -7,11 +7,11 @@ weight: 20
 title: Showcase
 
 slides:
-  - image: static/media/slide1.jpg
+  - image: content\en\home\slide1.jpg
     caption: "🌌 Explore new worlds"
-  - image: static/media/slide2.jpg
+  - image: content\en\home\slide1.jpg
     caption: "🎮 Design immersive gameplay"
-  - image: static/media/slide3.jpg
+  - image: content\en\home\slide1.jpg
     caption: "🧭 Craft emotional adventures"
 
 design:
