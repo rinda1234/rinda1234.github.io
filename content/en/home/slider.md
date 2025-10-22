@@ -7,11 +7,11 @@ title: Showcase
 
 content:
   slides:
-    - image: "{{ $slide1 := resources.Get \"media/slide1.jpg\" | images.Fit \"1200x600\" }}{{ $slide1.RelPermalink }}"
+    - image: "media/slide1.jpg"
       caption: "🌌 Explore new worlds"
-    - image: "{{ $slide2 := resources.Get \"media/slide2.jpg\" | images.Fit \"1200x600\" }}{{ $slide2.RelPermalink }}"
+    - image: "media/slide2.jpg"
       caption: "🎮 Design immersive gameplay"
-    - image: "{{ $slide3 := resources.Get \"media/slide3.jpg\" | images.Fit \"1200x600\" }}{{ $slide3.RelPermalink }}"
+    - image: "media/slide3.jpg"
       caption: "🧭 Craft emotional adventures"
 
 design:

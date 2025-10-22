@@ -1,0 +1,77 @@
+{{ $slides := .Params.content.slides }}
+{{ if $slides }}
+  {{ $design := .Params.design }}
+  {{ $autoplay := $design.autoplay | default false }}
+  {{ $interval := $design.interval | default 4000 }}
+  {{ $transition := $design.transition | default "slide" }}
+
+  <div class="slider {{ if eq $transition "fade" }}fade-slider{{ end }}"
+       data-autoplay="{{ $autoplay }}"
+       data-interval="{{ $interval }}">
+    {{ range $i, $slide := $slides }}
+      {{ $src := $slide.image }}
+      {{ with resources.Get $src }}
+        {{ $processed := . | images.Fit "1200x600 webp" | fingerprint }}
+        <div class="slide {{ if eq $i 0 }}active{{ end }}">
+          <img src="{{ $processed.RelPermalink }}" alt="{{ $slide.caption }}">
+          {{ with $slide.caption }}
+            <div class="caption">{{ . }}</div>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <script>
+    (function() {
+      const slider = document.currentScript.previousElementSibling;
+      if (!slider) return;
+
+      const slides = slider.querySelectorAll('.slide');
+      let index = 0;
+      const interval = parseInt(slider.dataset.interval, 10) || 4000;
+      const autoplay = slider.dataset.autoplay === 'true';
+
+      if (autoplay && slides.length > 1) {
+        setInterval(() => {
+          slides[index].classList.remove('active');
+          index = (index + 1) % slides.length;
+          slides[index].classList.add('active');
+        }, interval);
+      }
+    })();
+  </script>
+
+  <style>
+    .slider {
+      position: relative;
+      overflow: hidden;
+    }
+    .slider .slide {
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+    }
+    .slider .slide.active {
+      opacity: 1;
+      z-index: 2;
+    }
+    .slider img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      display: block;
+    }
+    .slider .caption {
+      position: absolute;
+      bottom: 1rem;
+      left: 1rem;
+      background: rgba(0, 0, 0, 0.5);
+      color: #fff;
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+    }
+  </style>
+{{ end }}
