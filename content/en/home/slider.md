@@ -7,11 +7,11 @@ title: Showcase
 
 content:
   slides:
-    - image: "slide1.jpg"
+    - image: "./slide1.jpg"
       caption: "🌌 Explore new worlds"
-    - image: "slide2.jpg"
+    - image: "./slide2.jpg"
       caption: "🎮 Design immersive gameplay"
-    - image: "slide3.jpg"
+    - image: "./slide3.jpg"
       caption: "🧭 Craft emotional adventures"
 
 design:
