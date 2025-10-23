@@ -2,7 +2,8 @@
 <div class="slider">
   {{ range $slides }}
     <div class="slide">
-      <img src="{{ .image | relURL }}" alt="{{ .caption }}">
+      {{ $img := resources.Get .image | images.Resize "1200x" | resources.Fingerprint }}
+      <img src="{{ $img.RelPermalink }}" alt="{{ .caption }}">
       <div class="caption">{{ .caption }}</div>
     </div>
   {{ end }}
