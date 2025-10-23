@@ -1,6 +1,6 @@
 ---
 widget: slider
-headless: true
+headless: false
 active: true
 weight: 20
 title: Showcase
