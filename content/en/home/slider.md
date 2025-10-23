@@ -3,6 +3,7 @@ widget: slider
 headless: true
 active: true
 weight: 20
+lazy: false
 title: Showcase
 
 content:
