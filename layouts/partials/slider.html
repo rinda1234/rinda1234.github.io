@@ -1,0 +1,9 @@
+{{ $slides := .content.slides }}
+<div class="slider">
+  {{ range $slides }}
+    <div class="slide">
+      <img src="{{ .image | relURL }}" alt="{{ .caption }}">
+      <div class="caption">{{ .caption }}</div>
+    </div>
+  {{ end }}
+</div>
