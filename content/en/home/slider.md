@@ -1,25 +1,45 @@
 ---
-widget: slider
-headless: false
-lazy: false
-active: true
-weight: 20
 title: Showcase
+type: landing
 
-content:
-  slides:
-    - image: "images/slide1.jpg"
-      caption: "🌌 Explore new worlds"
-    - image: "images/slide2.jpg"
-      caption: "🎮 Design immersive gameplay"
-    - image: "images/slide3.jpg"
-      caption: "🧭 Craft emotional adventures"
+sections:
+
+  - block: slider
+    content:
+      slides:
+      - title: "🌌 Explore new worlds"
+        align: center
+        background:
+          image:
+            filename: slide1.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#222'
+      - title: "🎮 Design immersive gameplay"
+        align: center
+        background:
+          image:
+            filename: slide2.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#222'
+      - title: "🧭 Craft emotional adventures"
+        align: center
+        background:
+          image:
+            filename: slide3.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#222' 
 
 
-design:
-  height: "480px"
-  autoplay: true
-  interval: 3500
-  show_captions: true
-  transition: fade
+    design:
+      is_fullscreen: false
+      slide_height: "480px"
+      loop: true
+      interval: 3500
+      transition: fade
 ---
