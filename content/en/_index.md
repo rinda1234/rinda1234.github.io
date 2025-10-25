@@ -44,6 +44,23 @@ sections:
       interval: 3500
       transition: fade
 
+  - block: about.avatar
+    weight: 2
+    headless: false
+    author: admin
+    content: |
+      👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
+      I love creating worlds where players can step in as <br>characters and explore their own stories.
+      {style="font-size: 1.2rem; color: #FFB76B;"}
+
+      Check out my [About](/about/) and portfolio below 😍
+
+    # 디자인 커스터마이징 (원하면)
+    design:
+      background:
+        color: '#090a0b'
+        text_color_light: true
+      css_class: fullscreen
   - block: collection
     content:
       filters:
@@ -51,5 +68,6 @@ sections:
       count: 10
     design:
       columns: 1
+
 
 ---
