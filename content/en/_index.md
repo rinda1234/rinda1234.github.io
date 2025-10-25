@@ -47,7 +47,6 @@ sections:
   - block: about.avatar
     weight: 2
     headless: false
-    author: admin
     content:
       text: |
         👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
@@ -61,6 +60,7 @@ sections:
         color: '#090a0b'
         text_color_light: true
       css_class: fullscreen
+      
   - block: collection
     content:
       filters:
