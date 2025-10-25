@@ -44,7 +44,7 @@ sections:
       interval: 3500
       transition: fade
 
-  - block: home_intro
+  - block: about.avatar
     weight: 2
     headless: false
     content:
@@ -60,7 +60,7 @@ sections:
         color: '#090a0b'
         text_color_light: true
       css_class: fullscreen
-
+      
   - block: collection
     content:
       filters:
