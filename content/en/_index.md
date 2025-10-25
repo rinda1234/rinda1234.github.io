@@ -57,7 +57,7 @@ sections:
         Check out my [About](/about/) and portfolio below 😍
     design:
       columns: '1'
-      align: center  # 👈 중앙 정렬!
+      align: center
       css_class: tight-spacing
       
   - block: collection
