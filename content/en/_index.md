@@ -56,13 +56,6 @@ sections:
         {style="font-size: 1.2rem; color: #FFB76B;"}
         Check out my [About](/about/) and portfolio below 😍
 
-    # 디자인 커스터마이징 (원하면)
-    design:
-      columns: '1'
-      background:
-        color: '#090a0b'
-        text_color_light: true
-      css_class: fullscreen
       
   - block: collection
     content:
