@@ -55,7 +55,10 @@ sections:
         I love creating worlds where players can step in as <br>characters and explore their own stories.
         {style="font-size: 1.2rem; color: #FFB76B;"}
         Check out my [About](/about/) and portfolio below 😍
-
+    design:
+      columns: '1'
+      align: center  # 👈 중앙 정렬!
+      css_class: tight-spacing
       
   - block: collection
     content:
