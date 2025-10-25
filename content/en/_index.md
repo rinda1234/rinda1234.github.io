@@ -43,4 +43,13 @@ sections:
       loop: true
       interval: 3500
       transition: fade
+
+  - block: collection
+    content:
+      filters:
+        folder: home
+      count: 10
+    design:
+      columns: 1
+
 ---
