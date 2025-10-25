@@ -45,7 +45,7 @@ sections:
       transition: fade
 
   - block: markdown
-    weight: 2
+    weight: 10
     headless: false
     content:
       title:
