@@ -49,12 +49,12 @@ sections:
     headless: false
     author: admin
     content:
-    text: |
-      👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
-      I love creating worlds where players can step in as <br>characters and explore their own stories.
-      {style="font-size: 1.2rem; color: #FFB76B;"}
+      text: |
+        👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
+        I love creating worlds where players can step in as <br>characters and explore their own stories.
+        {style="font-size: 1.2rem; color: #FFB76B;"}
 
-      Check out my [About](/about/) and portfolio below 😍
+        Check out my [About](/about/) and portfolio below 😍
 
     # 디자인 커스터마이징 (원하면)
     design:
