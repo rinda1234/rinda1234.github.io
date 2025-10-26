@@ -37,7 +37,9 @@ sections:
               color: '#000000'   
               opacity: 0.6
         - title: "📂 Explore My Portfolio"
-          content:  "Check out the projects and designs I've created so far."
+          content:  |
+            Check out the projects and designs I've created so far.<br>
+            <a href="/about/" class="blox-btn blox-btn-primary">View About</a>
           align: center
           background:
             image:
@@ -50,10 +52,7 @@ sections:
             overlay:
               color: '#000000'   
               opacity: 0.6
-          cta:
-            label: "View about"
-            url: "/about/"
-            style: "primary"
+
 
 
 
