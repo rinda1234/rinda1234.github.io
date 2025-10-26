@@ -6,9 +6,10 @@ sections:
 
   - block: slider
     weight: 1
-    content:
+    content: 
       slides:
-        - title: "🌌 Explore new worlds"
+        - title: "👋 Hi, I'm Dae-bok Lee"
+          content: "A sophomore game designer who loves creating worlds players can truly live in."
           align: center
           background:
             image:
@@ -17,7 +18,8 @@ sections:
                 brightness: 0.6
             position: center
             color: '#222'
-        - title: "🎮 Design immersive gameplay"
+        - title: "🎮 Designing emotional gameplay"
+          content: "I believe games should make players *feel* — not just play."
           align: center
           background:
             image:
@@ -26,7 +28,8 @@ sections:
                 brightness: 0.6
             position: center
             color: '#222'
-        - title: "🧭 Craft emotional adventures"
+        - title: "📂 Explore My Portfolio"
+          content:  "Check out the projects and designs I've created so far."
           align: center
           background:
             image:
@@ -35,6 +38,10 @@ sections:
                 brightness: 0.6
             position: center
             color: '#222' 
+          cta:
+            label: "View about"
+            url: "/about/"
+            style: "primary"
 
 
     design:
