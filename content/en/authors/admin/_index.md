@@ -13,7 +13,7 @@ status:
   icon: ☕️
 organizations:
   - name: Department of Computer & Artificial Intelligence, Jeonbuk National University
-    url: https://www.jbnu.ac.kr/
+    url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Organizations/Affiliations
 #organizations:
