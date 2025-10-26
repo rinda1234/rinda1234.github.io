@@ -1,10 +1,11 @@
 ---
 widget: program
-headless: true
+headless: false
 weight: 50
 title: 'My Programs'
 subtitle: 'Showcasing the software and projects I developed'
 date_format: Jan 2006
+type: page
 
 item:
   - title: "VOIDLINK Exploration Game"
