@@ -25,8 +25,8 @@ experience:
   - title: Elementary School Diploma
     company: Osu Elementary School
     company_url: 'https://school.jbedu.kr/osu/'
-    company_logo: osu-elementary-logo
-    location: Imsil, Korea
+    company_logo:
+    location: Osu ,Imsil, Korea
     date_start: '2009-03-01'
     date_end: '2015-02-28'
     description: |2-
@@ -37,7 +37,7 @@ experience:
     company: Osu Middle School
     company_url: 'https://school.jbedu.kr/osu-m/M010208/'
     company_logo: osu-middle-logo
-    location: Imsil, Korea
+    location: Osu ,Imsil, Korea
     date_start: '2015-03-01'
     date_end: '2018-02-28'
     description: |2-
