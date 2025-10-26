@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://solved.ac/profile/daebok6962
+  - certificate_url: 'https://solved.ac/profile/daebok6962'
     date_end: ''
     date_start: '2024-01-01'
     description: 'algorithm problem solving on Solved.ac'
@@ -31,8 +31,8 @@ item:
     organization_url: 'https://solved.ac'
     title: 'Algorithm Practice'
     url: 'https://solved.ac/profile/daebok6962'
-  - certificate_url: ''
-    date_end: 'https://swuniv.jbnu.ac.kr/main/'
+  - certificate_url: 'https://swuniv.jbnu.ac.kr/main/'
+    date_end: ''
     date_start: '2025-06-09'
     description: 'Participated in the 2025 AI Competition'
     organization: National Center of Excellence in SOFTWARE
