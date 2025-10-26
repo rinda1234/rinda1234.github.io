@@ -51,10 +51,11 @@ sections:
       title:
       subtitle:
       text: |
-        👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
+        <br> <span style="font-size:100%">👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
         I love creating worlds where players can step in as <br>characters and explore their own stories.
         {style="font-size: 1.2rem; color: #FFB76B;"}
         Check out my [About](/about/) and portfolio below 😍
+        <br>
     design:
       columns: '1'
       align: center
