@@ -1,32 +1,39 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+# [이대복 포트폴리오](https://rinda1234.github.io)
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+[![Screenshot](preview.png)](https://rinda1234.github.io)
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+안녕하세요! 저는 전북대학교 **게임 디자인과 2학년 학생 이대복**입니다.  
+이 사이트는 제가 개발한 프로젝트와 소프트웨어를 한눈에 보여주기 위한 포트폴리오 웹사이트입니다.  
+Hugo와 HugoBlox 기반으로 제작되었으며, 맞춤형 위젯과 반응형 디자인을 적용했습니다 ⭐⭐⭐⭐⭐
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+[![사이트 바로가기](https://img.shields.io/badge/-사이트%20보기-ff4655?style=for-the-badge)](https://rinda1234.github.io)
+[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.gg/TUy3pjPZe5)
+[![Instagram](https://img.shields.io/badge/Instagram-%40daebok6962-E4405F?style=for-the-badge)](https://instagram.com/daebok6962)
+[![GitHub](https://img.shields.io/badge/GitHub-rinda1234-181717?style=for-the-badge)](https://github.com/rinda1234)
+[![Solved.ac](https://img.shields.io/badge/Solved.ac-daebok6962-4CAF50?style=for-the-badge)](https://solved.ac/profile/daebok6962)
+[![Facebook](https://img.shields.io/badge/Facebook-프로필-1877F2?style=for-the-badge)](https://www.facebook.com/profile.php?id=100022542223459&sk=photos)
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
 
-[Check out the latest demo](https://hugo-portfolio-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+## 🌐 사용 기술
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+- Hugo, HugoBlox  
+- HTML, CSS, JS  
+- GPT-4 API  
+- GitHub Pages 배포
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+---
 
-## We ask you, humbly, to support this open source movement
+## 💬 소셜/연락처
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+- 이메일: daebok6962@jbnu.ac.kr  
+- 전화: +82-10-5642-6962  
+- Discord: [링크](https://discord.gg/TUy3pjPZe5)  
+- GitHub: [rinda1234](https://github.com/rinda1234)  
+- Instagram: [@daebok6962](https://instagram.com/daebok6962)  
+- Facebook: [프로필](https://www.facebook.com/profile.php?id=100022542223459&sk=photos)  
+- Solved.ac: [daebok6962](https://solved.ac/profile/daebok6962)
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+---
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+이 포트폴리오 사이트는 **Wowchemy**와 **Hugo**를 활용하여 제작되었습니다.  
+원하는 위젯, 테마, 다국어 설정 등 모든 요소를 자유롭게 커스터마이징할 수 있습니다.
