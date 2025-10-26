@@ -52,6 +52,11 @@ sections:
             overlay:
               color: '#000000'   
               opacity: 0.6
+          link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: View about
+          url: ../about/
 
 
 

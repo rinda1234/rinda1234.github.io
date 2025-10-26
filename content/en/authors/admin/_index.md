@@ -71,6 +71,6 @@ social:
 
 👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
         I love creating worlds where players can step in as <br>characters and explore their own stories.
-        Check out my [About](/about/) and portfolio below 😍
-        
+      
+
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
