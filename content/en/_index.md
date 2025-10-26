@@ -51,22 +51,22 @@ sections:
       interval: 3500
       transition: fade
 
-  - block: markdown
-    weight: 10
-    headless: false
-    content:
-      title:
-      subtitle:
-      text: |
-        <br> <span style="font-size:130%">👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
-        I love creating worlds where players can step in as <br>characters and explore their own stories.
-        {style="font-size: 1.2rem; color: #FFB76B;"}
-        Check out my [About](/about/) and portfolio below 😍
-        <br>
-    design:
-      columns: '1'
-      align: center
-      css_class: tight-spacing text-center
+  # - block: markdown
+  #   weight: 10
+  #   headless: false
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       <br> <span style="font-size:130%">👋 Hi, I'm **Dae-bok Lee**— a sophomore at Jeonbuk <br>National University, aspiring to become a game designer.  
+  #       I love creating worlds where players can step in as <br>characters and explore their own stories.
+  #       {style="font-size: 1.2rem; color: #FFB76B;"}
+  #       Check out my [About](/about/) and portfolio below 😍
+  #       <br>
+  #   design:
+  #     columns: '1'
+  #     align: center
+  #     css_class: tight-spacing text-center
       
   - block: collection
     content:
