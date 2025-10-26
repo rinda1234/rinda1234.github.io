@@ -5,7 +5,7 @@
 
 title: Hugo Portfolio Theme # Website name
 baseURL: 'https://rinda1234.github.io/' # Website URL
-defaultContentLanguage: 'ko' 
+
 ############################
 ## PAGE OPTIONS
 ############################
@@ -24,7 +24,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
