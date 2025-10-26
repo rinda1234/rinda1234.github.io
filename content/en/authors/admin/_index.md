@@ -54,6 +54,17 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/daebok6962
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100022542223459&sk=photos
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.gg/TUy3pjPZe5
+  - icon: code
+    icon_pack: fas
+    link: https://solved.ac/profile/daebok6962
+
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
