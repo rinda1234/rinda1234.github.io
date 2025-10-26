@@ -80,13 +80,35 @@ sections:
   #     align: center
   #     css_class: tight-spacing text-center
       
-  - block: collection
+  - block: portfolio
+    weight: 20
+    headless: false
+    active: true
+    title: "My Projects"
+    subtitle: "Explore my portfolio"
     content:
-      filters:
-        folder: home
-      count: 10
+      page_type: project
+      filter_default: 0
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: Machine Learning
+          tag: ML
+        - name: Computer Vision
+          tag: CV
+        - name: NLP
+          tag: NLP
     design:
-      columns: 1
+      columns: '1'
+      view: masonry
+      flip_alt_rows: true
+      background:
+        color: '#000'
+        overlay:
+          color: '#000000'
+          opacity: 0.4
+      spacing:
+        padding: [20, 20, 20, 20]
 
 
 ---
