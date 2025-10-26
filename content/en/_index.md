@@ -37,9 +37,8 @@ sections:
               color: '#000000'   
               opacity: 0.6
         - title: "📂 Explore My Portfolio"
-          content:  |
-            Check out the projects and designs I've created so far.<br>
-            <a href="/about/" class="blox-btn blox-btn-primary">View About</a>
+          content: "Check out the projects and designs I've created so far."
+
           align: center
           background:
             image:
@@ -53,10 +52,10 @@ sections:
               color: '#000000'   
               opacity: 0.6
           link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: View about
-          url: ../about/
+            icon: graduation-cap
+            icon_pack: fas
+            text: View about
+            url: ../about/
 
 
 
