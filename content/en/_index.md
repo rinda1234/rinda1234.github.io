@@ -52,7 +52,7 @@ sections:
               opacity: 0.6
           cta:
             label: "View about"
-            url: "/about"
+            url: "/about/"
             style: "primary"
 
 
