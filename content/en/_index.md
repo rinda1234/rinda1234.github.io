@@ -101,7 +101,8 @@ sections:
     design:
       columns: '1'
       view: masonry
-      flip_alt_rows: true
+      flip_alt_rows: false
+      max_width: '1200px'
       background:
         color: '#000'
         overlay:
