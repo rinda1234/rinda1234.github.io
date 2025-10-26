@@ -18,4 +18,5 @@ main:
     weight: 40
   - name: Contact
     url: contact/
+    target: "_self"
     weight: 50
