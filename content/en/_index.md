@@ -56,6 +56,7 @@ sections:
             icon_pack: fas
             text: View about
             url: ../about/
+            class: "custom-btn"
 
 
 
