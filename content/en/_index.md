@@ -58,7 +58,7 @@ sections:
     design:
       columns: '1'
       align: center
-      css_class: tight-spacing
+      css_class: tight-spacing text-center
       
   - block: collection
     content:
