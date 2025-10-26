@@ -39,7 +39,6 @@ sections:
         - title: "📂 Explore My Portfolio"
           content:  "Check out the projects and designs I've created so far."
           align: center
-          url: "/about/"
           background:
             image:
               filename: slide3.jpg
@@ -51,6 +50,10 @@ sections:
             overlay:
               color: '#000000'   
               opacity: 0.6
+          cta:
+            label: "View about"
+            url: "/about
+            style: "primary"
 
 
 
