@@ -39,7 +39,7 @@ sections:
         - title: "📂 Explore My Portfolio"
           content:  |
             Check out the projects and designs I've created so far.<br>
-            <a href="/about/" class="blox-btn blox-btn-primary">View About</a>
+            <a href="/about/" class="blox-btn blox-btn-primary"style="color: #FFD700;">View About</a>
           align: center
           background:
             image:
