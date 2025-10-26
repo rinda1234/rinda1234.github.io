@@ -35,7 +35,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: c
     show_logo: false
     show_language: false
     show_day_night: true
@@ -96,8 +96,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: google
-    api_key: 'AIzaSyA1xn4AGQDMysBRW2sKTd2IdfD0x9XkSFU'
+    provider: mapnik
+    api_key: ''
     zoom: 15
 
 extensions:
