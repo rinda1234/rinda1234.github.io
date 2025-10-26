@@ -16,7 +16,7 @@ sections:
               filename: slide1.jpg
               filters:
                 brightness: 0.6
-                opacity: 0.8
+                opacity: 0.5
             position: center
             color: '#222'
             overlay:
@@ -30,7 +30,7 @@ sections:
               filename: slide2.jpg
               filters:
                 brightness: 0.6
-                opacity: 0.8
+                opacity: 0.5
             position: center
             color: '#222'
             overlay:
@@ -45,7 +45,7 @@ sections:
               filename: slide3.jpg
               filters:
                 brightness: 0.6
-                opacity: 0.8
+                opacity: 0.5
             position: center
             color: '#222' 
             overlay:
