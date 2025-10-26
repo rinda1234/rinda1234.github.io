@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://solved.ac/profile/daebok6962
     date_end: ''
-    date_start: '2021-01-26'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    date_start: '2024-01-01'
+    description: 'algorithm problem solving on Solved.ac'
+    organization: Solved.ac
+    organization_url: 'https://solved.ac'
+    title: 'Algorithm Practice'
+    url: 'https://solved.ac/profile/daebok6962'
+  - certificate_url: ''
+    date_end: 'https://swuniv.jbnu.ac.kr/main/'
+    date_start: '2025-06-09'
+    description: 'Participated in the 2025 AI Competition'
+    organization: National Center of Excellence in SOFTWARE
+    organization_url: 'https://swuniv.jbnu.ac.kr/main/'
+    title: '2025 AI Competition Participation'
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: 'https://sites.google.com/view/jbnu-alps'
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2025-03-01'
+    description: 'Member of ALPS academic club and participated in projects'
+    organization: Jeonbuk National University
+    organization_url: 'https://sites.google.com/view/jbnu-alps'
+    title: 'ALPS Academic Club'
     url: ''
 
 design:
