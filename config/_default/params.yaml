@@ -11,10 +11,7 @@ appearance:
   font: minimal
   font_size: L
 
-map:
-  provider: google    
-  api_key: "YAIzaSyA1xn4AGQDMysBRW2sKTd2IdfD0x9XkSFU"
-  zoom: 16
+
 # SEO
 
 marketing:
@@ -99,8 +96,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: google
+    api_key: "YAIzaSyA1xn4AGQDMysBRW2sKTd2IdfD0x9XkSFU"
     zoom: 15
 
 extensions:
