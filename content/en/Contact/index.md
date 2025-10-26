@@ -24,7 +24,11 @@ sections:
       coordinates:
         latitude: '35.839236'
         longitude: '127.134782'
-    directions: 
+
+      show_map: true       
+      map_zoom: 16         
+      map_height: '400px'  
+       
       autolink: true
 
     design:
