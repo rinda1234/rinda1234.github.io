@@ -24,6 +24,7 @@ sections:
       coordinates:
         latitude: '35.839236'
         longitude: '127.134782'
+    directions: 
       autolink: true
 
     design:
