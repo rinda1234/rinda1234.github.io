@@ -46,7 +46,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fab
     link: 'mailto:daebok6962@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
