@@ -11,6 +11,9 @@ role: student
 # Status emoji
 status:
   icon: ☕️
+organizations:
+  - name: Department of Computer & Artificial Intelligence, Jeonbuk National University
+    url: https://www.jbnu.ac.kr/
 
 # Organizations/Affiliations
 #organizations:
