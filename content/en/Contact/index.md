@@ -1,6 +1,6 @@
 ---
-title: Get in Touch
-date: 2022-10-24
+title: Contact
+
 type: landing
 
 sections:
