@@ -11,6 +11,10 @@ appearance:
   font: minimal
   font_size: L
 
+map:
+  provider: google    
+  api_key: "YOUR_GOOGLE_MAPS_API_KEY"
+  zoom: 16
 # SEO
 
 marketing:
