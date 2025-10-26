@@ -19,5 +19,5 @@
 .custom-btn:hover {
   color: #ffffff;          /* 글씨색 유지 또는 변경 가능 */
   background-color: #FF5733; /* 마우스 올렸을 때 배경색 변경 */
-  cursor: pointer;         /* 마우스 포인터 변경 */
+
 }
