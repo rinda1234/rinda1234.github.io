@@ -17,5 +17,5 @@ main:
     url: Skills/
     weight: 40
   - name: Contact
-    url: Contact/
+    url: contact/
     weight: 50
