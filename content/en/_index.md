@@ -16,8 +16,12 @@ sections:
               filename: slide1.jpg
               filters:
                 brightness: 0.6
+                opacity: 0.8
             position: center
             color: '#222'
+            overlay:
+              color: '#000000'   
+              opacity: 0.6
         - title: "🎮 Designing emotional gameplay"
           content: "I believe games should make players *feel* — not just play."
           align: center
@@ -26,8 +30,12 @@ sections:
               filename: slide2.jpg
               filters:
                 brightness: 0.6
+                opacity: 0.8
             position: center
             color: '#222'
+            overlay:
+              color: '#000000'   
+              opacity: 0.6
         - title: "📂 Explore My Portfolio"
           content:  "Check out the projects and designs I've created so far."
           align: center
@@ -36,8 +44,12 @@ sections:
               filename: slide3.jpg
               filters:
                 brightness: 0.6
+                opacity: 0.8
             position: center
             color: '#222' 
+            overlay:
+              color: '#000000'   
+              opacity: 0.6
           cta:
             label: "View about"
             url: "/about/"
